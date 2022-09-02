@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/project1)
+[H&M Sales and Customers analysis](/project1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Some descriptions about the projects
 
