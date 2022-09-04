@@ -1,12 +1,12 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
+<!---
+### Category Name 1  --->
 
 [H&M Sales and Customers analysis](/project1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Some descriptions about the projects
+
 
 ---
 [Sales Prediction using Linear Regression](/sale_prediction_lm)
@@ -17,7 +17,13 @@ Some descriptions about the projects
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+---
+[Project 4 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+
+<!---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
@@ -33,5 +39,5 @@ Some descriptions about the projects
 
 
 ---
-<!---p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p--->
+p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p--->
 <!-- Remove above link if you don't want to attibute -->
