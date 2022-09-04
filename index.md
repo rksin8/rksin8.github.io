@@ -9,7 +9,7 @@
 Some descriptions about the projects
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Sales Prediction using Linear Regression](/sale_prediction_lm)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
